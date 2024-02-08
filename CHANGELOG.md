@@ -2,6 +2,10 @@
 
 ### [3.0.3]
 
+- Improve key generation for nested keys.
+
+### [3.0.3]
+
 - replace log() with stdout.writeln()
 
 ### [3.0.2]
